@@ -11,6 +11,11 @@
 O site está responsivo e funciona corretamente em dispositivos móveis, ele consegue se adaptar em diferentes telas.
 Tornando a experiência mais agradável para todos os clientes.
 
+## Funcionalidade ⚙️
+- O site contém botões e links que encaminham o usuário diretamente para o seu whatsapp para efetuar seus pedidos.
+- O site possui `mobile button` para melhor responsividade, junto de um menu de navegação que facilita muito a todos os usuários de encontrarem o que desejam.
+- O site contém links de suas redes sociais para melhor acompanhamento do cliente.
+
 ## Em breve irei efetuar mais atualizações ao site como:
 - Formulário de avaliações dentro do próprio site
 - Carrinho de pedidos
