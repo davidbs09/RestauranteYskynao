@@ -3,6 +3,7 @@
 @import url('home.css');
 @import url('menu.css');
 @import url('testimonials.css');
+@import url('footer.css');
 
 :root {
     --color-primary-1: #fff9ea;
@@ -29,6 +30,10 @@ html {
 
 body {
     background-color: var(--color-primary-1);
+}
+
+section {
+    padding: 28px 8%;
 }
 
 .btn-default {
@@ -65,6 +70,7 @@ body {
     border-radius: 10px;
     text-decoration: none;
     color: var(--color-neutral-1);
+    ;
     box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
     transition: box-shadow .3s ease;
 }
