@@ -7,6 +7,10 @@
 ![image](https://github.com/user-attachments/assets/3f49f85d-1c66-4086-b34e-ae6f42af190e)
 <br>
 
+## Responsividade 📱💻
+O site está responsivo e funciona corretamente em dispositivos móveis, ele consegue se adaptar em diferentes telas.
+Tornando a experiência mais agradável para todos os clientes.
+
 ## Em breve irei efetuar mais atualizações ao site como:
 - Formulário de avaliações dentro do próprio site
 - Carrinho de pedidos
