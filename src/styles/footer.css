@@ -1,21 +1,21 @@
 footer {
-    background-color: var(--color-primary-2);
+    background-color: var(--color-2);
 }
 
-#footer_items {
+#db9_footer_items {
     display: flex;
     justify-content: space-between;
     padding: 0px 8% 24px 8%;
     align-items: center;
 }
 
-#copyright {
-    color: var(--color-neutral-1);;
+#db9_copyright {
+    color: var(--neutral-color-1);
     font-weight: 500;
 }
 
 @media screen and (max-width: 600px) {
-    #footer_items {
+    #db9_footer_items {
         flex-direction: column;
         gap: 20px;
     }

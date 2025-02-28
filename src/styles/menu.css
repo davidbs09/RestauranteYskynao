@@ -1,4 +1,4 @@
-#menu {
+#db9_menu {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -6,7 +6,7 @@
     min-height: 100vh;
 }
 
-#dishes {
+#db9_dishes {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@
     margin-top: 32px;
 }
 
-.dish {
+.db9_dish {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,49 +22,49 @@
     gap: 18px;
     width: 25%;
     padding: 20px;
-    background-color: var(--color-neutral-0);
+    background-color: var(--neutral-color-0);
     box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
     position: relative;
     overflow: hidden;
 }
 
-.dish-description {
+.db9_dish-description {
     color: #434343;
     text-align: center;
 }
 
-.dish-rate i {
-    color: var(--color-primary-6);
+.db9_dish-rate i {
+    color: var(--color-6);
 }
 
-.dish-price {
+.db9_dish-price {
     display: flex;
     align-items: center;
     gap: 20px;
 }
 
-.btn-buy {
+.db9_btn-buy {
     text-decoration: none;
     color: inherit;
 }
 
 @media screen and (max-width: 1170px) {
-    #dishes {
+    #db9_dishes {
         flex-wrap: wrap;
         justify-content: center;
     }
 
-    .dish {
+    .db9_dish {
         width: calc(50% - 12px);
     }
 }
 
 @media screen and (max-width: 600px) {
-    .dish {
+    .db9_dish {
         width: 100%;
     }
 
-    #menu .section-subtitle {
+    #db9_menu .db9_section-subtitle {
         text-align: center;
     }
 }

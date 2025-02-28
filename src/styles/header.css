@@ -3,65 +3,65 @@ header {
     padding: 28px 8%;
     position: sticky;
     top: 0;
-    background-color: var(--color-primary-1);
+    background-color: var(--color-1);
     z-index: 3;
 }
 
-#navbar {
+#db9_navbar {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-#nav_logo {
+#db9_nav_logo {
     font-size: 22px;
-    color: var(--color-primary-6);
+    color: var(--color-6);
 }
 
-#nav_list {
+#db9_nav_list {
     display: flex;
     list-style: none;
     gap: 48px;
 }
 
-.nav-item a {
+.db9_nav-item a {
     text-decoration: none;
     color: #1d1d1dad;
     font-weight: 600;
 }
 
-.nav-item.active a {
-    color: var(--color-neutral-1);
-    border-bottom: 3px solid var(--color-primary-4);
+.db9_nav-item.active a {
+    color: var(--neutral-color-1);
+    border-bottom: 3px solid var(--color-4);
 }
 
-#mobile_btn {
+#db9_mobile_btn {
     display: none;
 }
 
-#btn_inside a {
+#db9_btn_inside a {
     text-decoration: none;
     color: inherit;
 }
 
-#first_btn a {
+#db9_first_btn a {
     text-decoration: none;
     color: inherit;
 }
 
-#mobile_menu {
+#db9_mobile_menu {
     display: none;
 }
 
 @media screen and (max-width: 1170px) {
 
-    #nav_list,
-    #navbar .btn-default {
+    #db9_nav_list,
+    #db9_navbar .db9_btn-default {
         display: none;
     }
 
-    #mobile_btn {
+    #db9_mobile_btn {
         display: block;
         border: none;
         background-color: transparent;
@@ -69,20 +69,20 @@ header {
         cursor: pointer;
     }
 
-    #mobile_menu.active {
+    #db9_mobile_menu.active {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
 
-    #mobile_nav_list {
+    #db9_mobile_nav_list {
         display: flex;
         flex-direction: column;
         gap: 12px;
         margin: 12px 0px;
     }
 
-    #mobile_nav_list .nav-item {
+    #db9_mobile_nav_list .db9_nav-item {
         list-style: none;
         text-align: center;
     }
