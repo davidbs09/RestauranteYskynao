@@ -23,3 +23,7 @@ Tornando a experiência mais agradável para todos os clientes.
 <br>
 
 > **O restaurante está começando a aumentar seu marketing agora, e com esse aumento vamos aumentando o nível de satisfação do cliente não só com a comida mas com seu website também.**
+
+
+## Créditos
+A criadora do site oficial é a Larissa Kich, esse site foi feito inspirado no dela.
