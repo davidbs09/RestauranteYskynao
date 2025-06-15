@@ -26,4 +26,4 @@ Tornando a experiência mais agradável para todos os clientes.
 
 
 ## Créditos
-A criadora do site oficial é a Larissa Kich, esse site foi feito inspirado no dela.
+A criadora do site oficial é a Larissa Kich, esse site foi com inspiração em seu projeto e ideias.
